@@ -8,10 +8,12 @@ This code is inspired from:
     2) Vit - https://github.com/lucidrains/vit-pytorch/tree/main/examples
     3) Pre-trained models: https://github.com/rwightman/pytorch-image-models
     
-  
-In the current version of the code we used two jupyter notebooks to demonstrate the working and performance of the LA-Transformer.
+## Release 7/5/21
+Demonstrates the working and performance of the LA-Transformer using two jupyter notebooks.
 
-    1) LA-Transformer Training: Demonstrates the training process. We have included cell outputs in the juyter notebook. In the last cell, training results are shown. One can also refer to model/{name}/summary.csv if the cell outputs are not clear. To run the jupyter notebook, install the requirements, download dataset using the link provided and extract it in data folder.
+    1) LA-Transformer Training: Demonstrates the training process. We have included cell outputs in the juyter notebook.\
+    In the last cell, training results are shown. One can also refer to model/{name}/summary.csv if the cell outputs are not clear.\
+    To run the jupyter notebook, install the requirements, download dataset using the link provided and extract it in data folder.
 
     2) LA-Transformer Testing: Demonstrates the testing process. You can download the weights using the link below or train LA transformer using the Training notebook. To use pre-trained weights, download them using the gdrive link below, extract them into model/{name} folder and run the Testing notebook. Performance metrics can be found in the last cell of the notebook.
 
