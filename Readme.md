@@ -15,9 +15,9 @@ Demonstrates the working and performance of the LA-Transformer using two jupyter
     last cell, training results are shown. One can also refer to model/{name}/summary.csv if the cell outputs are not clear. To 
     run the jupyter notebook, install the requirements, download dataset using the link provided and extract it in data folder.
 
-    2) LA-Transformer Testing: Demonstrates the testing process. You can download the weights using the link below or train LA transformer 
-    using the Training notebook. To use pre-trained weights, download them using the gdrive link below, extract them into model/{name} 
-    folder and run the Testing notebook. Performance metrics can be found in the last cell of the notebook.
+    2) LA-Transformer Testing: Demonstrates the testing process. You can download the weights using the link below or train 
+    LA-transformer using the Training notebook. To use pre-trained weights, download them using the gdrive link below, extract
+    them into model/{name} folder and run the Testing notebook. Performance metrics can be found in the last cell of the notebook.
 
 ## Requirements:
 
